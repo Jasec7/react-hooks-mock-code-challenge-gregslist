@@ -1,6 +1,5 @@
 import React, {useState} from "react";
-/*I passed the props from ListingsContainer including the calledback function 'onDelete = handleDelete'
-and I added the event to the button on my JSX */
+
 function ListingCard({image,id, description, location, onDelete}) {
   const [favorite, setFavorite] = useState(true);
   

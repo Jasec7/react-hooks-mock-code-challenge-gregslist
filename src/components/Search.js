@@ -1,6 +1,5 @@
 import React from "react";
-/* For my search by name feature I passed from ListingContainer "serachName and setSearchName" as
-props and created handleChange   */
+
 function Search({searchName, setSearchName}) {;
   console.log("Rendering Search component");
   function handleChange(e) {

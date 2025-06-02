@@ -23,6 +23,12 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "description": "Tennis shoes",
+      "image": "https://c.shld.net/rpx/i/s/i/spin/0/prod_1338949612",
+      "location": "Inner Richmond",
+      "id": 8
     }
   ]
 }
